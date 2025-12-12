@@ -16,7 +16,17 @@
 </a>  
 </p>
 <p align="center">
-Im Sev, but my real name is Chance (allthough Sev was chosen as its my nickname)!<br>
-I like to code random project and commisions, although i put nearly everything out for free.<br>
+Im Sev, but my real name is Chance (allthough Sev was chosen as its my nickname)!<br><br>
+I like to code random project and commisions, although i put nearly everything out for free.<br><br>
 If you like my project please consider donating so i can make things more offten! As well if you want to talk, or really anything consider joining <a href="https://sevvy-wevvy.com/discord">my Discord</a>!
 </p>
+  
+<details>
+<summary align="center"><b>🩷 Donate 🩷</b></summary>
+
+<p align="center">
+I accept donations over few platforms, below are where you can help support my projects and more.<br>
+<b>Patreon</b> - https://sevvy-wevvy.com/patreon<br>
+<b>Ko-fi</b> - https://sevvy-wevvy.com/kofi
+</p>
+</details>
