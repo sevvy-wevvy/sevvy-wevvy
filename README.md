@@ -16,6 +16,14 @@
 </a>  
 </p>
 <p align="center">
+  <a href="https://sevvy-wevvy.com/kofi" target="_blank">
+    <img src="https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support me on Ko-fi" width="160", height="20">
+  </a>
+  <a href="https://sevvy-wevvy.com/patreon" target="_blank" style="margin-left:10px;">
+    <img src="https://img.shields.io/badge/Support%20me%20on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Support me on Patreon" width="160", height="20">
+  </a>
+</p>
+<p align="center">
 Im Sev, but my real name is Chance (allthough Sev was chosen as its my nickname)!<br><br>
 I like to code random project and commisions, although i put nearly everything out for free.<br><br>
 If you like my project please consider donating so i can make things more offten! As well if you want to talk, or really anything consider joining <a href="https://sevvy-wevvy.com/discord">my Discord</a>!
