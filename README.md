@@ -37,7 +37,7 @@ I accept donations over few platforms, below are where you can help support my p
 <b>Patreon</b> - https://sevvy-wevvy.com/patreon<br>
 <b>Ko-fi</b> - https://sevvy-wevvy.com/kofi
 </p>
-</details> <br>
+</details>
 
 <p align="center"><b><a href="https://sevvy-wevvy.com">🌐 Website 🌐</a></b></p>
 
