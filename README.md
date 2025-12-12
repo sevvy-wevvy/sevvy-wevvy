@@ -1,4 +1,4 @@
-<h1 align="center">## Ello!</h1>
+<h1 align="center">Ello!</h1>
 <p align="center">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
