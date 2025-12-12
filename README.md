@@ -37,4 +37,15 @@ I accept donations over few platforms, below are where you can help support my p
 <b>Patreon</b> - https://sevvy-wevvy.com/patreon<br>
 <b>Ko-fi</b> - https://sevvy-wevvy.com/kofi
 </p>
-</details>
+</details> <br>
+
+<p align="center"><b><a href="https://sevvy-wevvy.com">🌐 Website 🌐</a></b></p>
+
+<details>
+<summary align="center"><b>🟣 Company 🟣</b></summary>
+
+<p align="center">
+I own a small company by the name of GGGravity!<br>
+Feel free to check the github out (@GGGravity-org) or the website (https://3gv.org)!
+</p>
+</details> <br>
