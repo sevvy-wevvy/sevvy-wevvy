@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <a href="https://sevvy-wevvy.com/donate" target="_blank" style="margin-left:10px;">
-    <img src="https://img.shields.io/badge/Support%20on-Me-5B5BFF?style=for-the-badge&logo=gift&logoColor=white" alt="Support Me" width="160", height="18">
+    <img src="https://img.shields.io/badge/Support%20on-Me-5B5BFF?style=for-the-badge&logo=gift&logoColor=white" alt="Support Me" width="160">
   </a>
 </p>
 <p align="center">
