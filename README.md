@@ -31,8 +31,9 @@ If you like my project please consider donating so i can make things more offten
 
 <p align="center">
 I accept donations over few platforms, below are where you can help support my projects and more.<br>
+<b>Ko-fi</b> (Preferred) - https://sevvy-wevvy.com/kofi<br>
 <b>Patreon</b> - https://sevvy-wevvy.com/patreon<br>
-<b>Ko-fi</b> - https://sevvy-wevvy.com/kofi
+<b>Throne</b> - https://sevvy-wevvy.com/throne
 </p>
 </details>
 
